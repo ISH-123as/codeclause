@@ -7,3 +7,7 @@ index.html- it is the main page of website
 style.css - it is css page
 
 to view the website run the index.html 
+
+MADE BY ISHITA SANJAY
+INTERNID- CC-OL-33866
+BATCH - 1 JULY 2023
