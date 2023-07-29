@@ -1,1 +1,3 @@
-this is to do list using html,css,js
+This is CODECLAUSE PROJECT 2- TO DO List using html,css,js
+MADE BY - ISHITA SANJAY
+BATCH JULY 2023
